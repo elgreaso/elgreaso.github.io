@@ -3,3 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+node_modules/
+package-lock.json
+*.log
+.DS_Store
+assets/js/*.js
+assets/js/*.map
